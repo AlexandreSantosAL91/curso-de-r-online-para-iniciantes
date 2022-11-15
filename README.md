@@ -66,3 +66,7 @@ Curso R para Iniciantes
 17 - [Funções na linguagem R (Curso para iniciantes - Aula 17)](https://www.youtube.com/watch?v=bSqM_rhW3g4&list=PLyqOvdQmGdTQ5dE6hSD7ZGBu8bud70wYf&index=17)
   
 </p>
+
+## :memo: Licença
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/AlexandreSantosAL91/portfolio/blob/main/LICENSE)
+
